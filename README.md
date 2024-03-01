@@ -1,1 +1,2 @@
 # 100commits
+Hi, I'm going to develop this project for the [100commitow](https://100commitow.pl/) competition. I haven't decided yet what kind of app I want to create. The main goal is to learn new things like the latest .net and c# features, new frameworks and patterns. I'm still in the planning stages and will update this doc as soon as I have something to share.

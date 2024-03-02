@@ -1,2 +1,23 @@
-# 100commits
-Hi, I'm going to develop this project for the [100commitow](https://100commitow.pl/) competition. I haven't decided yet what kind of app I want to create. The main goal is to learn new things like the latest .net and c# features, new frameworks and patterns. I'm still in the planning stages and will update this doc as soon as I have something to share.
+# Fask
+
+<div align="center">
+
+  ![image info](./docs/assets/logo.png)
+
+</div>
+
+---
+
+**Fask** is the **f**amily t**ask** management system which I want to develop for the [100 commitow](https://100commitow.pl/) competition. 
+
+The goal of the project is to implement a complex family task management system, which allows users to manage their daily and recurent tasks in their families.  
+
+Initially, I would like to focus on providing basic functionality which you have seen in other project management system like Azure DevOps or Jira. 
+
+## Features
+
+---
+
+## Roadmap
+
+---

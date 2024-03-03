@@ -14,6 +14,8 @@ The goal of the project is to implement a complex family task management system,
 
 Initially, I would like to focus on providing basic functionality which you have seen in other project management system like Azure DevOps or Jira. 
 
+You can find detailed plan on the [Miro board](https://miro.com/app/board/uXjVNl67_8U=/?share_link_id=909566077735).
+
 ## Features
 
 ---

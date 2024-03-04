@@ -17,9 +17,9 @@ Initially, I would like to focus on providing basic functionality which you have
 You can find detailed plan on the [Miro board](https://miro.com/app/board/uXjVNl67_8U=/?share_link_id=909566077735).
 
 ## Features
-
+TBA
 ---
 
 ## Roadmap
-
+TBA
 ---

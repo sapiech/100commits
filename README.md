@@ -1,7 +1,6 @@
-# Fask
-
 <div align="center">
-
+  
+  # Fask
   ![image info](./docs/assets/logo.png)
 
 </div>

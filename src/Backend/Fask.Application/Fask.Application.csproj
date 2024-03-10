@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Fask.Core\Fask.Core.csproj" />
+    <ProjectReference Include="..\Fask.Shared\Fask.Shared.csproj" />
+  </ItemGroup>
+
 </Project>

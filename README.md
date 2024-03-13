@@ -7,14 +7,14 @@
 
 ---
 
-**Fask** is the web **f**amily t**ask** management system. The goal of the project is to implement a complex web task management tool, which allows users to manage their daily and recurrent tasks in their families.  
+**Fask** is the web **f**amily t**ask** management system. The goal of the project is to implement a complex web task management tool, which allows users to manage their daily and recurrent tasks in their families. 
 
 > [!NOTE]
 > This project is developed for [100 Commits](https://100commitow.pl/) competition.
 
 ## ✨ Features
 
-For MVP, I want to provide basic functionality which you have seen in other project management system like Azure DevOps or Jira. 
+For MVP, I want to provide basic functionality which you have seen in other project management systems like Azure DevOps or Jira. 
 
 ### Registering users
 

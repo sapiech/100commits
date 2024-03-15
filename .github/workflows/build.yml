@@ -14,13 +14,6 @@ jobs:
         uses: actions/setup-dotnet@v3
         with:
           dotnet-version: '8.0'
-      - name: Check if directory exists
-        run: |
-          ls -la ~/.nuget/packages
-          if [ ! -d ~/.nuget/packages ]; then
-            echo "Creating directory ~/.nuget/packages"
-            mkdir -p ~/.nuget/packages
-          fi
       - name: Cache
         uses: actions/cache@v3
         with:

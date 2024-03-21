@@ -10,8 +10,4 @@
     <ProjectReference Include="..\Fask.Shared.Abstraction\Fask.Shared.Abstraction.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Entities\" />
-  </ItemGroup>
-
 </Project>
